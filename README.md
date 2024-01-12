@@ -19,10 +19,11 @@ ___23 December___
 ====================================================================================================
 ___26 December___
 
-1.C++__Lab_Manual (Exam Problem Statement) Link https://drive.google.com/file/d/1AuywaCfaPvLYLHb5VbCbr1_W-oXbOPYV/view?usp=sharing (Exam Problem Statement)
+1.C++__Lab_Manual (Exam Problem Statement) Link https://drive.google.com/file/d/1AuywaCfaPvLYLHb5VbCbr1_W-oXbOPYV/view?usp=sharing 
 
 ====================================================================================================
 ___27 December___
+
 1.Python_Lab_Manual (Birthday Calculator) link : -https://drive.google.com/file/d/1efZ7IT6E0eyJh3QQ6Vk5fWiOxNnA_M_V/view?usp=sharing 
 2.Python_Lab_Manual (Taxi Fare Calcultor using class and object) link :- https://drive.google.com/file/d/16GfYkFVoqppMi6b7i3kdLeakmib9ilm7/view?usp=sharing
 
