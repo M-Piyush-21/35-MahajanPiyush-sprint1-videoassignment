@@ -1,9 +1,26 @@
-# VideoAssignment (Sprint 1) 
+# VideoAssignment 
+
 Name:- Mahajan Piyush  
 Roll no. 35 
-4 September Video Assignment task.
-These repository consist 4 videos. 
+
+
+____4 September___
 1. GitHub Assignment    link https://drive.google.com/file/d/1NxBpbaFfOXykC7XuKFbP2gLysqbdbowi/view?usp=sharing
 2. Programming Paradigm    link https://drive.google.com/file/d/1__4gBdW8HgdIn7SNNEMKLCwKa-Wabzyd/view?usp=sharing
 3. Computer Networks      link https://drive.google.com/file/d/10zEgTBJ-Xli1CMdi0xY9xWN73KgWRT26/view?usp=sharing
 4. Binary Arthemattic     link https://drive.google.com/file/d/1Uil60LfQNxYZCcJ1x7TK9UVCRrogiEx9/view?usp=sharing
+
+
+____23 December___
+1.Scratch Exam Problem Statement  Link https://drive.google.com/file/d/1UQuWCXx6gVU9USb7d_6iHat0SjTCwh4G/view?usp=sharing
+
+
+____26 December___
+1.C++__Lab_Manual Link https://drive.google.com/file/d/1AuywaCfaPvLYLHb5VbCbr1_W-oXbOPYV/view?usp=sharing
+
+
+____27 December___
+1.Python_Lab_Manual Video no.1 link : -https://drive.google.com/file/d/1efZ7IT6E0eyJh3QQ6Vk5fWiOxNnA_M_V/view?usp=sharing 
+2.Python_Lab_Manual link :- https://drive.google.com/file/d/16GfYkFVoqppMi6b7i3kdLeakmib9ilm7/view?usp=sharing
+
+
